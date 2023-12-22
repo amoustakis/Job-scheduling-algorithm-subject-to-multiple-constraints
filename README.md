@@ -5,4 +5,4 @@ bibliography as minimization of makespan, which is simply the minimization of th
 the jobs to finish.
 
 This project was based on https://www.tandfonline.com/doi/full/10.1080/00207543.2022.2102948 written by Ioannis Avgerinos, Ioannis Mourtos,
-Stavros Vatikiotis and Georgios Zois. I used the results of their Greedy Heuristic Algorithm and tried to improve them with an implementation of Simulated Annealing. The results were improved in more than 50% of the tested instances. The code was written in Python (Google Colab). The code was written in Python (Google Colab). The report contains extensive documentation, diagrams, results and description of mathematical concepts.
+Stavros Vatikiotis and Georgios Zois. I used the results of their Greedy Heuristic Algorithm and tried to improve them with an implementation of Simulated Annealing. The results were improved in more than 50% of the tested instances. The code was written in Python (Google Colab). The report contains extensive documentation, diagrams, results and description of mathematical concepts.
